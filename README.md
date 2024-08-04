@@ -28,7 +28,7 @@ La evolución de un desarrollador junior a senior no solo se basa en la experien
 ### Estructuras de Datos y Algoritmos
 
 - **Libros y Cursos:**
-  - "Introduction to Algorithms" por Thomas H. Cormen
+  - "Introduction to Algorithms" por Thomas H. Cormen [PDF](https://dl.ebooksworld.ir/books/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf)
   - Curso de algoritmos en [Coursera](https://www.coursera.org/specializations/algorithms)
   
 - **Prácticas:**
